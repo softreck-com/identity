@@ -1,2 +1,13 @@
-# info
-Information about company, localisation, services
+# identity 
+
+
+
+Values:
+
+Continuous:
++ Agility
++ Personalization
++ Automation
++ Privacy
+  
+
